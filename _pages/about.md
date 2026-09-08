@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Manager, NA Professional Services & Operations — Wind River Systems
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>La Unión, Cartago, Costa Rica</p>
+    <p>+506 8855 4445</p>
+    <p><a href="mailto:estebanzu@gmail.com">estebanzu@gmail.com</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: false
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 5
+latest_posts:
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Professional Services leader based in Costa Rica. I grew Wind River Costa Rica from 5 to 213 people and now lead a team of 20+ engineers. I started the VxWorks Managed Services program inside Professional Services from scratch and work closely with delivery directors, VPs, product and program managers to support Tier 2 and Tier 3 Aerospace & Defense and Industrial customers at 100% SLA.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am now helping the team get ready for CRA compliance and handling practical security work like CVE remediation and SBOM. I also serve as technical contact for university partnerships since 2017, lead local and global innovation groups, and represented Customer Success in TSIA benchmarking.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Highlights:** Opened the Professional Services organization in Costa Rica from 0 to 25 engineers with <3% annual attrition. Co-led SCP certification for Support (2019-2022) with Service Strategies. Built the new Costa Rica office with Wind River VP on budget and on schedule, recognized in 2019 by multiple VPs and the CEO. Created an internship program with 95% conversion (40+ engineers). M.Sc. Digital Signal Processing, Cum Laude 9.2, TEC.
+
+Check my [CV](/cv/) or download the [PDF](/assets/pdf/cv.pdf).
