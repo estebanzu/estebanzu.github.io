@@ -1,189 +1,153 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Esteban Zúñiga
+  label: Senior Manager, NA Professional Services & Operations
+  email: estebanzu@gmail.com
+  location: La Unión, Cartago, Costa Rica
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Professional Services Leader with deep expertise in VxWorks Managed Services, customer operations,
+    and embedded systems security (CVE remediation, SBOM, CRA readiness). Scaled Wind River Costa Rica
+    from 5 to 213 people while maintaining 100% mission-critical SLA, 98% CSAT, and <3% annual attrition.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: estebanzuniga
+    - network: GitHub
+      username: estebanzu
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: La Unión
+    region: Cartago
+    countryCode: CR
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Wind River Systems
+        position: Sr. Manager Professional Services
+        location: San José, Costa Rica
+        start_date: Dec 2022
+        end_date: Present
+        summary: Lead a 22-person global team (12 direct, 10 matrix across US, Costa Rica, and EMEA) supporting Tier 2 and Tier 3 Aerospace & Defense and Industrial customers.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Maintain 100% SLA and cut delivery time by 25% with streamlined SOWs and shared resourcing for a multi-million dollar North America portfolio."
+          - "Direct day-to-day security engineering: CVE remediation, SBOM generation, and CRA readiness across hardened VxWorks, RTOS, and legacy Linux fleets operating 24x7."
+          - "Oversee strategic long-term maintenance for RTOS and legacy Linux releases to enable high-availability patching without downtime."
+          - "Implemented a scalable delivery model driving a 25% efficiency gain and 5% North America services revenue growth with higher billable utilization."
+          - "Partner with delivery directors, VPs, and product/program managers to architect VxWorks Managed Services and embed CRA compliance into client workflows."
+          - "Scaled the Costa Rica Professional Services organization from 0 to 25 engineers with <3% annual attrition via hands-on mentoring and structured growth paths."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Wind River Systems
+        position: Site Lead & Sr. Manager Operations
+        location: San José, Costa Rica
+        start_date: Feb 2022
+        end_date: Nov 2022
+        summary: Local leader for the Customer Experience Organization in Costa Rica, overseeing Customer Support, Professional Services, and site operations.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Scaled the Costa Rica site from 5 to 213 employees across R&D, Support, HR, and Professional Services; established hiring pipelines, onboarding, and OKRs."
+          - "Site expanded to handle ~40% of global support volume."
+          - "Leveraged Salesforce and CRM analytics to identify at-risk accounts, boosting customer retention by 20% in Industrial and A&D sectors."
+          - "Built an engineering internship program from scratch achieving 95% full-time conversion (40+ engineers hired)."
+          - "Served as technical liaison for university and industry partnerships since 2017; facilitated software license donations and student mentoring programs."
+          - "Spearheaded local and global innovation forums facilitating cross-organizational knowledge sharing and prototype incubation."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Wind River Systems
+        position: Site Lead & Manager Technical Support
+        location: San José, Costa Rica
+        start_date: May 2018
+        end_date: 2021
+        summary: Reported to Global Sr. Director for Customer Support, directing North American Linux technical support and local site operations.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Co-led Support SCP certification (2019–2022, Service Strategies), harmonizing 12 SOPs across APAC, EMEA, and North America, reducing cross-regional handoffs by ~30%."
+          - "Managed a team of 10+ engineers supporting global embedded Linux deployments while sustaining 98% CSAT."
+          - "Represented Customer Success in TSIA benchmarking, driving support automation and workflow optimization."
+          - "Partnered with Wind River VP to execute new Costa Rica office build-out; transitioned 200+ employees on budget and schedule, recognized in 2019 by CEO and Executive VP."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Wind River Systems (Intel)
+        position: Sr. Embedded Software Engineer
+        location: San José, Costa Rica
+        start_date: Jan 2017
+        end_date: May 2018
+        summary: Technical lead for Tier 2 global customers on Embedded Linux, Yocto Project, and Wind River Linux.
+        highlights:
+          - "Architected custom IoT and embedded solutions across Intel, ARM, PowerPC, and MIPS architectures."
+          - "Bridged engineering and customer success by aligning technical roadmaps directly with client operational requirements."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Intel Corporation
+        position: Sr. Mixed-Signal Validation Engineer
+        location: San José, Costa Rica
+        start_date: Oct 2015
+        end_date: Jan 2017
+        summary: Led ASIC design, mixed-signal validation, and SoC debugging for critical hardware milestones.
+        highlights:
+          - "Executed pre- and post-silicon validation for complex mixed-signal SoCs alongside global design teams."
+          - "Formulated comprehensive verification test plans and cross-site testing protocols to ensure hardware deadline adherence."
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - company: Inband Software S.R.L.
+        position: Lead DSP Engineer
+        location: San José, Costa Rica
+        start_date: Jan 2011
+        end_date: Oct 2015
+        summary: Directed a team of 10+ engineers translating signal processing algorithms into high-performance C implementations on DPUs.
+        highlights:
+          - "Optimized DPU software execution from MATLAB mathematical models to highly efficient embedded C."
+          - "Enhanced RTOS networking stacks to achieve low latency in demanding telecommunication environments."
+          - "Managed full software lifecycles and resolved complex technical escalations."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Education:
+      - institution: Technological Institute of Costa Rica (TEC)
+        location: Cartago, Costa Rica
+        area: Digital Signal Processing
+        studyType: Master's Degree (M.Sc.)
+        start_date: 2013
+        end_date: 2015
+        score: "Cum Laude (9.2 / 10)"
+        highlights:
+          - "Graduated Cum Laude with 9.2 grade point average."
+          - "Specialization in real-time processing, system optimization, and strategic technology implementation."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - institution: Technological Institute of Costa Rica (TEC)
+        location: Cartago, Costa Rica
+        area: Electronics Engineering
+        studyType: Licentiate Degree
+        start_date: 2005
+        end_date: 2010
+        highlights:
+          - "Specialized in embedded systems and telecommunications, integrating technical engineering with managerial foundations."
+
+      - institution: Centro Cultural Costarricense Norteamericano (CCCN)
+        location: San José, Costa Rica
+        area: Advanced English Certification
+        studyType: Speaking+ English Program
+        start_date: 2009
+        end_date: 2010
+        highlights:
+          - "Advanced professional English certification."
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: People & Organizational Leadership
+        keywords: "Global Team Scaling (5 to 200+), Mentoring & Talent Development, High-Conversion Internship Programs (95%), Cross-functional Alignment (R&D, PS, Support, HR), OKR / KPI Strategy, Capacity Planning, <3% Attrition"
+
+      - name: Project & Operations Management
+        keywords: "Service Delivery Optimization (+25% efficiency), P&L & Budget Management, SLA/SLO Adherence (100%), TSIA Benchmarking, SCP Certification Standards, SOW Architecture, Escalation Resolution"
+
+      - name: Cybersecurity & Embedded Systems
+        keywords: "Cyber Resilience Act (CRA) Readiness, SBOM Management, CVE Remediation & Vulnerability Management, RTOS & VxWorks, Embedded Linux & Yocto Project, High-Availability System Hardening, Mission-Critical Systems"
+
+      - name: Tools & Frameworks
+        keywords: "Salesforce CRM, Jira, CRM Analytics, SAP, Git, Docker, CMake, QEMU, GDB, C/C++, Python, Bash, Perl, MATLAB, Full-Stack Web (HTML/CSS/JS/Node.js)"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Spanish
+        summary: "Native proficiency"
 
       - name: English
-        summary: "Fluent"
+        summary: "Full professional proficiency (Fluent)"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: French
+        summary: "Professional working proficiency (Fluent)"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Awards:
+      - title: Wind River Shine Award
+        awarder: Wind River Systems
+        date: 2021
+        summary: "Two-time recipient of Wind River's highest company-wide honor for leadership and technical innovation."
